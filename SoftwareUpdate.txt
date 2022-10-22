@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
