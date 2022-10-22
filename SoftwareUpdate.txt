@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Clean up unused imgsz (#7771)
