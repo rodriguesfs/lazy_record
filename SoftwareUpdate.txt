@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add Weights & Biases Docs integrations page (#7199)
