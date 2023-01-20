@@ -1,1 +1,1 @@
-fix val each epoch
+fix predict with class filter
