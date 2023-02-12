@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Feature: Create HUB Models from CLI or Python Script (#7316)
