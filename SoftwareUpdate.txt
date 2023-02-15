@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add TFLite Docs Integrations Page (#8522)
