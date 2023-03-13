@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
