@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Replace onnx2tf usage from CLI to Python (#8429)
