@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add missing single-line docstrings (#8362)
