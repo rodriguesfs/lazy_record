@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Fix IS_PYTHON_3_12 bug (#9258)
