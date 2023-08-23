@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update CITATION.cff with cffinit corrections (#8658)
