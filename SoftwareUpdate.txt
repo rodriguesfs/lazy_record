@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
