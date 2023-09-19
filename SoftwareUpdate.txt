@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix ONNX GPU inference bug (#6840)
