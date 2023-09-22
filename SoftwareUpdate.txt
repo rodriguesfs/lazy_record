@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
