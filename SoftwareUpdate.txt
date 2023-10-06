@@ -1,1 +1,1 @@
-fix non-coco val
+Update CITATION.cff with cffinit corrections (#8658)
