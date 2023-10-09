@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add horizontal Mosaic3 augmentation (#6898)
