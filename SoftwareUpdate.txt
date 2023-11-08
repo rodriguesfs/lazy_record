@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
