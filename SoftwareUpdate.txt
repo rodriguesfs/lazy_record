@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add quantization support to TensorFlow.js converter (#7008)
