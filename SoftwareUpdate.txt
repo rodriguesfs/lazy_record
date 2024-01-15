@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
