@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Fix heatmaps width-height order bug (#7184)
