@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix OBB xywh-angle concatenation bug (#7404)
