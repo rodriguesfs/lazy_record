@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
