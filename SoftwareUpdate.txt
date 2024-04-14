@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add plot_images conf_thresh parameter (#8446)
