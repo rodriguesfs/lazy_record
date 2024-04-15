@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
