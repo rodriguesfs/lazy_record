@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix PNNX ubuntu -> linux bug (#7050)
